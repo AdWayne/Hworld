@@ -13,4 +13,7 @@ func main() {
 	fmt.Printf("Float: %.2f\n", c)
 	fmt.Println("String: ", d)
 	fmt.Print("Character: ", 'Z')
+	fmt.Println("Я сегодня изучил Go")
+	fmt.Println("Основы Go: это использовать package main and import fmt")
+	fmt.Println("Я человек")
 }
